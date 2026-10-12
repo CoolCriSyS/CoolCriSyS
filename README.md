@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack .Net dev from Michigan</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Bitcoin<br>👯 I’m looking to collaborate on Ethereum<br>🌱 I’m currently learning Solidity
+🔭 I’m currently working on MatTime.live<br>👯 I’m looking to collaborate on AI Agents<br>🌱 I’m currently learning Agent Workflows
 
 
 ## 🌐 Socials:
